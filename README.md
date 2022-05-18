@@ -4,8 +4,6 @@
 
 The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
-
 ## What to do next?
 
 Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
